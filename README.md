@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Ahanaf Intesher</h1>
 <h3 align="center">A passionate Full-Stack Developer From Bangladesh</h3>
 
-<img align="right" alt="coding" width="400px" src="https://media.tenor.com/sfp8nf9UrZcAAAAM/uwu-cat.gif">
+<img align="right" alt="coding" width="400px" src="https://media.licdn.com/dms/image/v2/D4D12AQHGG4J6b6OmyQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1709674937953?e=2147483647&v=beta&t=tgAv-o8rHSfUFWzGQT2nCOfZkc2Hdluh-9xTR3Opu-w">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ahanaf-untitled&label=Profile%20views&color=0e75b6&style=flat" alt="ahanaf-untitled" /> </p>
 
